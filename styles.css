@@ -1,0 +1,16 @@
+/* styles.css */
+body {
+  scroll-behavior: smooth;
+}
+
+a {
+  transition: color 0.3s ease-in-out;
+}
+
+a:hover {
+  color: #60a5fa; /* Tailwind's blue-400 */
+}
+
+.bg-gradient-to-tr {
+    
+}
